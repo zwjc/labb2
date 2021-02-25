@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1612708541 source:d:\school stuffs\kth - cinte\is1200 datorteknik\labb 2\main.c
+	<stdio.h>
+
+1612713078 source:d:\school stuffs\kth - cinte\is1200 datorteknik\labb 2\print-primes.c
+	<stdio.h>
+	<stdlib.h>
+
